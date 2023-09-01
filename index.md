@@ -1,10 +1,18 @@
-#Henry's Website
+# Henry's First CS193 Homework
 
 This is my website hosted on GitHub Pages.
 I love CS193, CS193 is my favorite class because it is not only useful, but also interesting.
 
-- Thank you
-- _Have a **nice** day_
+Things I love about CS193:
+- It's practical and teaches me technical skills outside of IDEs.
+- Arman has a cool voice and accent.
+- The seats in the lecture hall in Lily 126 are extremely spacious and I have no trouble getting in and out of them when I'm groggy at 9:30 am in the morning.
+- The instructors are cool and nice.
+- Terminal is cool
+
+
+Thank you
+_Have a **nice** day_
 
 [Instagram](https://www.instagram.com/hnry_chn/)
 

@@ -11,10 +11,16 @@ Things I love about CS193:
 - Terminal is cool
 
 
-Thank you
-_Have a **nice** day_
+Thank you and _have a **nice** day!_
 
 [Instagram](https://www.instagram.com/hnry_chn/)
+
+
+___________________________________________________________________________________________________________________________________________
+
+
+
+
 
 
 ## Welcome to GitHub Pages

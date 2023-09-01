@@ -4,9 +4,9 @@ This is my website hosted on GitHub Pages.
 I love CS193, CS193 is my favorite class because it is not only useful, but also interesting.
 
 - Thank you
-- _Have a *nice* day_
+- _Have a **nice** day_
 
-
+[Link](https://www.instagram.com/hnry_chn/)
 
 
 ## Welcome to GitHub Pages
